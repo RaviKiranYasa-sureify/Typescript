@@ -1,5 +1,2 @@
 #dev-dependencies
 node_modules
-
-#configuration
-package-lock.json
